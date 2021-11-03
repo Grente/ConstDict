@@ -24,18 +24,6 @@ python版本：python2.7
 例子：
 
 ```
-test_dic = {
-    "m_HP": 1,
-    "m_MP": 2,
-    "m_Attack": 3,
-    "m_Defense": 4,
-    "m_Speed": 5,
-    "m_Dodge": 6,
-    "m_Hit": 7,
-    "m_Double": 8,
-}
-
-
 >>> test_dic = {
 ...     "m_HP": 1,
 ...     "m_MP": 2,
