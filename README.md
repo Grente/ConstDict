@@ -18,8 +18,12 @@ Dict()内存主要消耗的地方：
 缺点：根据字典的属性，生成类对象，再生产对象
 
 
+python版本：python2.7
 
-实例：
+
+例子：
+
+```
 test_dic = {
     "m_HP": 1,
     "m_MP": 2,
@@ -30,6 +34,7 @@ test_dic = {
     "m_Hit": 7,
     "m_Double": 8,
 }
+
 
 >>> test_dic = {
 ...     "m_HP": 1,
@@ -72,8 +77,7 @@ test_dic = {
 
 >>> print(const_dic.iteritems())
 <generator object <genexpr> at 0x00000000094FA2C8>
-
-
+```
 
 
 
